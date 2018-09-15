@@ -5,6 +5,8 @@ Aplicações:
 - Análise Exploratória de Dados.
 - Séries Temporais.
 - Arima e AutoArima.
+- Análise de Agrupamentos com Cluster Hierárquico (ward)
+- Análise de Agrupamentos com K-means.
 
 Ferramentas:
 - R.
