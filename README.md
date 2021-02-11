@@ -1,5 +1,5 @@
 # Obras - Análise Temporal
-Análise de dados de obras usando séries temporais em busca de perspectivas do mercado imobiliário.
+Análise de dados de obras residenciais usando séries temporais em busca de perspectivas do mercado imobiliário regional.
 
 Aplicações:
 - Análise Exploratória de Dados.
